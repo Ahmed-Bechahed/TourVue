@@ -1,4 +1,4 @@
-# Natours-T
+# TourVue
  An awesome tour booking web app built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
 # Key Features
 * Authentication and Authorization
